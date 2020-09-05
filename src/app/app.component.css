@@ -1,0 +1,70 @@
+.carousel-control-prev:hover{
+    background: rgba(0, 0, 0, 0.7);
+}
+.carousel-control-next:hover{
+    background: black;
+}
+.headerSection {
+  background: linear-gradient(to bottom, #00D1C1 70%, #E5E5E5 30%);
+}
+.greetingText h4, .greetingText p {
+  color: white;
+}
+.btn-info {
+  background-image: linear-gradient(to bottom, #6ed2c1, #6ed2c1);
+  margin-top: 15px;
+}
+.card {
+  border-radius: 10px;
+}
+body {
+  background-color: #E5E5E5;
+  font-size: larger;
+  color: grey;
+}
+
+.sectionContent{
+  background-color: white;
+  margin: 20px 0px;
+}
+
+/* Section one styles */
+.sectionOne{
+  background-color: white;
+}
+.sectionOne p{
+  margin:2%;
+  padding-top: 20px;
+}
+.sectionOne i {
+  font-size: 50px;
+}
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.flex-container > div {
+  width: 20%;
+  margin: 10px;
+  text-align: center;
+  line-height: 30px;
+  font-size: 30px;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+.sectionThree i {
+  margin: 0px 5px;
+  font-size: 30px;
+}
+
+
+
+
+
+
+
